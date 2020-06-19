@@ -1,8 +1,6 @@
 <h1 align="center">
-app-name
+ gobarber-web
 </h1>
-
-### Introduction
 
 ## How to run
 
@@ -27,6 +25,3 @@ app-name
 
  Local:http://localhost:3000
 ```
-
-## License
-# gobarber-web
