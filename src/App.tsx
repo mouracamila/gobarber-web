@@ -14,5 +14,4 @@ const App: React.FC = () => (
     <GlobalStyle />
   </>
 );
-s;
 export default App;
