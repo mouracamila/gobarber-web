@@ -5,10 +5,15 @@ import Routes from './routes';
 import SingIn from './pages/SignIn';
 // import SingUp from './pages/SignUp';
 
+import { AuthProvider } from './context/AuthContext';
+
 const App: React.FC = () => (
   <>
     <BrowserRouter>
-      <SingIn />
+      <AuthProvider>
+        <SingIn />
+      </AuthProvider>
+
       <Routes />
     </BrowserRouter>
     <GlobalStyle />
