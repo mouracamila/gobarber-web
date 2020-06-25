@@ -5,7 +5,7 @@ import Routes from './routes';
 import SingIn from './pages/SignIn';
 // import SingUp from './pages/SignUp';
 
-import { AuthProvider } from './context/AuthContext';
+import { AuthProvider } from './hooks/AuthContext';
 
 const App: React.FC = () => (
   <>
