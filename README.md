@@ -1,12 +1,14 @@
+![go-barber](https://raw.githubusercontent.com/mouracamila/gobarber-web/master/gobarber.gif)
+
 <h1 align="center">
- gobarber-web
+ GoBarber Ui
 </h1>
 
 ## How to run
 
 1. Clone this Repository:
 
-   `$ git clone <repo-url>`
+   `$ git clone git@github.com:mouracamila/gobarber-web.git`
 
 2. Installing dependencies:
 
