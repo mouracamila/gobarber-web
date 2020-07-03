@@ -1,7 +1,7 @@
 ![go-barber](https://raw.githubusercontent.com/mouracamila/gobarber-web/master/gobarber.gif)
 
 <h1 align="center">
- GoBarber Ui
+ GoBarber Frontend
 </h1>
 
 ## How to run
